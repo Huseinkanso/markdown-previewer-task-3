@@ -38,6 +38,7 @@ h1{
 }
 .btns button{
     padding: 8px;
+    width: 33%;
     margin: 5px;
     background-color: #262834;
     color: #e3e3e3;
